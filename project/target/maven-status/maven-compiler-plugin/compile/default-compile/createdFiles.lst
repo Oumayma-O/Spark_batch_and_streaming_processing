@@ -1,0 +1,10 @@
+spark/batch/questions/PromotionalOffersQuestion.class
+spark/batch/questions/TotalAmountSpentByCategoryQuestion.class
+spark/batch/questions/TotalAmountSpentByRegionQuestion.class
+spark/batch/questions/TotalAmountSpentByGenderQuestion.class
+spark/batch/questions/Question.class
+spark/batch/BatchProcessor.class
+spark/batch/questions/CustomerSatisfactionQuestion.class
+spark/batch/questions/BoughtQuantityForEachCategoryQuestion.class
+spark/batch/Batch.class
+spark/batch/questions/AgeStatisticsQuestion.class

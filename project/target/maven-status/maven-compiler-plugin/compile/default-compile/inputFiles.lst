@@ -1,0 +1,10 @@
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/CustomerSatisfactionQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/TotalAmountSpentByRegionQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/TotalAmountSpentByCategoryQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/PromotionalOffersQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/TotalAmountSpentByGenderQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/AgeStatisticsQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/Question.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/BatchProcessor.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/questions/BoughtQuantityForEachCategoryQuestion.java
+/home/ouma/big_data_project/project/src/main/java/spark/batch/Batch.java
